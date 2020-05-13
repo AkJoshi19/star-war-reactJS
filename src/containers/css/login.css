@@ -1,0 +1,64 @@
+.SW {
+    text-align: center;
+    font-size: 140px;
+    font-weight: bold;
+    padding: 10px;
+    color: yellow;
+  }
+
+  .SW-small {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 2px;
+    color: rgb(94, 128, 0);
+    font-family: fantasy; 
+  }
+
+  .Text{
+
+    font-weight: bold;
+    color: yellow;
+    font-family: fantasy; 
+    margin-top:  10px;
+  }
+  
+  .box {
+    float: left;
+    text-align: center;
+    font-size: 32px;
+    margin: 5 px;
+  }
+  
+  .link {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    color: rgba(69, 196, 80, 0.418);
+    text-decoration: none;
+  }
+
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .Loader {
+    color: #521751;
+    font-size: 11px;
+    text-indent: -99999em;
+    margin: 55px auto;
+    position: relative;
+    width: 10em;
+    height: 10em;
+    box-shadow: inset 0 0 0 1em;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+  }
